@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuan Yuan's Homepage"
 title_separator          : "-"
 name                     : &name "Yuan Yuan"
-description              : &description "personal description"
+description              : &description "A Researcher at Hewlett Packard Labs"
 url                      : https://yy6mf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yy6mf/yy6mf.github.io"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Yuan Yuan 袁源"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "A Researcher at Hewlett Packard Labs"
+  location         : "820 N. McCarthy Blvd, Milpitas, CA 95035 USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=JaVGH-UAAAAJ&hl=en"
   email            : "yuan.yuan@hpe.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : # "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/yuan-yuan-a25b94154/"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-0907-9934"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
