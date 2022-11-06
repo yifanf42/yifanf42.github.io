@@ -1,10 +1,10 @@
 ---
-title: "AlxIn1-xAsySb1-y photodiodes with low avalanche breakdown temperature dependence"
+title: "Digital Alloy InAlAs Avalanche Photodiodes"
 collection: publications
 permalink: /publication/2018-JLT36-number-2
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2018-06-06
-venue: 'Optics Express'
+venue: 'Journal of Lightwave Technology'
 paperurl: 'https://opg.optica.org/oe/fulltext.cfm?uri=oe-25-20-24340&id=373694'
 citation: 'Zheng, Jiyuan, Yuan Yuan, Yaohua Tan, Yiwei Peng, Ann K. Rockwell, Seth R. Bank, Avik W. Ghosh, and Joe C. Campbell. "Digital alloy InAlAs avalanche photodiodes." Journal of Lightwave Technology 36, no. 17 (2018): 3580-3585.'
 ---
