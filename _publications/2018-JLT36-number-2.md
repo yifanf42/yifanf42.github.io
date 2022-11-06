@@ -2,7 +2,7 @@
 title: "Digital Alloy InAlAs Avalanche Photodiodes"
 collection: publications
 permalink: /publication/2018-JLT36-number-2
-excerpt: ''
+excerpt: 'Front Cover'
 date: 2018-06-06
 venue: 'Journal of Lightwave Technology'
 paperurl: 'https://opg.optica.org/oe/fulltext.cfm?uri=oe-25-20-24340&id=373694'
