@@ -3,7 +3,7 @@ title: "Toward deterministic construction of low noise avalanche photodetector m
 collection: publications
 permalink: /publication/2018-APL113-number-3
 excerpt: ''
-date: 2018-10-01
+date: 2018-08-20
 venue: 'Applied Physics Letters'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Rockwell, A. K., M. Ren, M. Woodson, A. H. Jones, S. D. March, Y. Tan, Y. Yuan et al. "Toward deterministic construction of low noise avalanche photodetector materials." Applied Physics Letters 113, no. 10 (2018): 102106.'
