@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Engineering and Automation, Nanjing University of Aeronautics and Astronautics, 09/2012-06/2016
+* Ph.D in Electrical Engineering, University of Virginia, 08/2016-12/2019
+  * Supervisor: Prof. Joe Campbell
 
 Work experience
 ======
