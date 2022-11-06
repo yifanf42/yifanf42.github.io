@@ -81,8 +81,8 @@ Service
 * Membership: IEEE member, Optica member
 * Reviewer: Optica, ACS Photonics, Photonics Research, Optics Letters, Optics Express, IEEE Journal of Lightwave Technology, IEEE Journal of Quantum Electronics, IEEE Photonics Journal, IEEE Journal of Selected Topics in Quantum Electronics, IEEE Photonics Technology Letters, IEEE Electron Device Letters, Optics Communications, Applied Optics, PhotoniX, Photonics, Electronics, etc.
 * Editor:
-  * Research topics in [Frontiers: Heterogenous Integrated Silicon Photonics](https://www.frontiersin.org/research-topics/36586/heterogeneous-integrated-silicon-photonics), (Now call for papers!)
-  * Special issue in [Photonics: Advances in Avalanche Photodiodes](https://www.mdpi.com/journal/photonics/special_issues/OL2ZKD4DRR), (Now call for papers!)
+  * Research topics in [Frontiers: Heterogenous Integrated Silicon Photonics](https://www.frontiersin.org/research-topics/36586/heterogeneous-integrated-silicon-photonics), (**Now call for papers!**)
+  * Special issue in [Photonics: Advances in Avalanche Photodiodes](https://www.mdpi.com/journal/photonics/special_issues/OL2ZKD4DRR), (**Now call for papers!**)
 * Committee:
   * The Compound Semiconductor Week (CSW) 2023
   * IEEE Silicon Photonics Conference (Formerly GFP Conference) 2023
