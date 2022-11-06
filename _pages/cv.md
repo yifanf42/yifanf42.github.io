@@ -20,11 +20,11 @@ Education
 Work experience
 ======
 * Summer Intern (05/2019-08/2019)
-  * LSIP group, [Hewlett Packard Labs](https://www.hpe.com/us/en/hewlett-packard-labs.html)
+  * LSIP group, [Hewlett Packard Labs](https://www.hpe.com/us/en/hewlett-packard-labs.html), [Hewlett Packard Enterprise](https://www.hpe.com/us/en/home.html)
 * Post-doctoral (02/2020-02/2021)
-  * LSIP group, Hewlett Packard Labs
+  * LSIP group, Hewlett Packard Labs, Hewlett Packard Enterprise
 * Research Scientist (02/2021-present)
-  * LSIP group, Hewlett Packard Labs
+  * LSIP group, Hewlett Packard Labs, Hewlett Packard Enterprise
 
 Research interest
 ======
@@ -68,6 +68,13 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
+Award
+======
+* Best Paper Award in Industry Innovation, [Asia Communications and Photonics Conference (ACP)](http://www.acpconf.com/ueditor/php/upload/file/20211112/1636705063382372.pdf) 2021
+* Chinese Award for Outstanding Self-financed Students Abroad 2019
+* Scholarship for Excellent Students of NUAA 2012-2015
+* Chinese National Scholarship 2014                                                                          
+
   
 Service
 ======
@@ -76,4 +83,11 @@ Service
 * Editor:
   * Research topics in [Frontiers: Heterogenous Integrated Silicon Photonics](https://www.frontiersin.org/research-topics/36586/heterogeneous-integrated-silicon-photonics), (Now call for papers!)
   * Special issue in [Photonics: Advances in Avalanche Photodiodes](https://www.mdpi.com/journal/photonics/special_issues/OL2ZKD4DRR), (Now call for papers!)
+* Committee:
+  * The Compound Semiconductor Week (CSW) 2023
+  * IEEE Silicon Photonics Conference (Formerly GFP Conference) 2023
+  * 7th OptoElectronics and Communications Conference / International Conference on Photonics in Switching and Computing 2022 (OECC/PSC 2022)
+* Presider:
+  * "Integrated Frequency Combs" session SW4A, CLEO 2021
+
 
