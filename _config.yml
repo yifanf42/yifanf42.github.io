@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuan Yuan's Homepage"
+title                    : "Yuan's Homepage"
 title_separator          : "-"
 name                     : &name "Yuan Yuan"
 description              : &description "A Researcher at Hewlett Packard Labs"
