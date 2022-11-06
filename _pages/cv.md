@@ -20,7 +20,7 @@ Education
 Work experience
 ======
 * Summer Intern (05/2019-08/2019)
-  * LSIP group, Hewlett Packard Labs
+  * LSIP group, [Hewlett Packard Labs](https://www.hpe.com/us/en/hewlett-packard-labs.html)
 * Post-doctoral (02/2020-02/2021)
   * LSIP group, Hewlett Packard Labs
 * Research Scientist (02/2021-present)
@@ -42,19 +42,19 @@ Research interest
   
 Skills
 ======
-* Photonics test
-  * Familiar with optical/electrical instruments: semiconductor analyzer, LCR meter, vector network analyzer, digital communication analyzer, oscilloscope, signal generator, pattern generator, electrical amplifier, bit-error-rate tester, electrical spectrum analyzer, optical spectrum analyzer, arbitrary waveform generator, DFB laser, femtosecond laser, VCSEL, EDFA, YDFA, modulator, wafer prober, etc
-  * Proficient in device characterization: photodetector, avalanche photodiodes, single photon detetcion, microring resonators, modulators, lasers
-  * Proficient in high-speed characterization: S-parameters, bandwidth, impulse response, eye diagrams, bit error rates 
-* Softwares: Matlab, Python, Ipkiss, Crosslight, Lumerical, Advanced design system, Bandprof, KLayout, SRIM, etc
-* Hardwares: 
-  * Optical test:
-  * High-speed test: 
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Test
+  * Familiar with optical/electrical instruments: semiconductor analyzer, LCR meter, vector network analyzer (VNA), digital communication analyzer (DCA), oscilloscope, signal generator, pattern generator, electrical amplifier, lock-in amplifier, bit-error-rate tester (BERT), electrical spectrum analyzer (ESA), optical spectrum analyzer (OSA), arbitrary waveform generator (AWG), time-correlated single photon counter (TCSPC), waveshaper, DFB laser, femtosecond laser, VCSEL, EDFA, YDFA, modulator, wafer prober, etc.
+  * Proficient in device characterization: photodetector, avalanche photodiode, single photon avalanche detector, microring resonator, modulator, MZI, interleaver, laser, memristor, etc.
+  * Proficient in high-speed characterization: S-parameters, bandwidth, impulse response, eye diagrams, bit error, rates etc.
+ 
+* Softwares 
+  * optical simulation: Crosslight, Lumerical Mode/FDTD/Interconnect, etc.
+  * electrical simulation: Lumerical Charge, Advanced design system, Bandprof, SRIM, etc.
+  * mask layout: Ipkiss, Klayout etc.
+  * programming and writing: Matlab, Python, Origin, Office, Latex, etc.
+ 
+* Fabrication
+  * photolithographic pattern, E-beam metal evaporation, PECVD oxide deposition, profilometer, reactive ion etching (RIE), scanning electron microscope (SEM), sputter, ellipsometry, etc.
 
 Publications
 ======
