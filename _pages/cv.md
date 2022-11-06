@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical Engineering and Automation, Nanjing University of Aeronautics and Astronautics, 09/2012-06/2016
-* Ph.D in Electrical Engineering, University of Virginia, 08/2016-12/2019
+* B.S. in Electrical Engineering and Automation (09/2012-06/2016)
+  * Nanjing University of Aeronautics and Astronautics
+* Ph.D in Electrical Engineering (08/2016-12/2019)
+  * University of Virginia  
   * Supervisor: Prof. Joe Campbell
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer Intern (05/2019-08/2019)
+  * Hewlett Packard Labs
+* Post-doctoral (02/2020-02/2021)
+  * Hewlett Packard Labs
+* Research Scientist (02/2021-present)
+  * Hewlett Packard Labs
   
 Skills
 ======
