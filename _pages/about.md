@@ -18,5 +18,5 @@ Contact
 yuan[dot]yuan[at]hpe[dot]com
 
 
-![UVa](/images/UVa_2.png)
+![UVa](/images/UVa_2_2.png)
 
