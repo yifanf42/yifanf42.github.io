@@ -1,0 +1,16 @@
+---
+title: "64 Gb/s low-voltage waveguide SiGe avalanche photodiodes with distributed Bragg reflectors"
+collection: publications
+permalink: /publication/2020-PR8-number-10
+excerpt: 'Editors' Pick'
+date: 2020-06-05
+venue: 'Photonics Research'
+paperurl: 'https://opg.optica.org/prj/fulltext.cfm?uri=prj-8-7-1118&id=432418'
+citation: 'Wang, Binhao, Zhihong Huang, Yuan Yuan, Di Liang, Xiaoge Zeng, Marco Fiorentino, and Raymond G. Beausoleil. "64 Gb/s low-voltage waveguide SiGe avalanche photodiodes with distributed Bragg reflectors." Photonics Research 8, no. 7 (2020): 1118-1123.'
+---
+Abstract:
+We demonstrate low-voltage waveguide silicon-germanium avalanche photodiodes (APDs) integrated with distributed Bragg reflectors (DBRs). The internal quantum efficiency is improved from 60% to 90% at 1550 nm assisted with DBRs while still achieving a 25 GHz bandwidth. A low breakdown voltage of 10 V and a gain bandwidth product of near 500 GHz are obtained. APDs with DBRs at a data rate of 64 Gb/s pulse amplitude modulation with four levels (PAM4) show a 30%–40% increase in optical modulation amplitude (OMA) compared to APDs with no DBR. A sensitivity of around −13 dBm at a data rate of 64 Gb/s PAM4 and a bit error rate of 2.4×10−4 is realized for APDs with DBRs, which improves the sensitivity by ∼2 dB compared to APDs with no DBR.
+
+[Download paper here](https://opg.optica.org/prj/fulltext.cfm?uri=prj-8-7-1118&id=432418)
+
+Recommended citation: Wang, Binhao, Zhihong Huang, Yuan Yuan, Di Liang, Xiaoge Zeng, Marco Fiorentino, and Raymond G. Beausoleil. "64 Gb/s low-voltage waveguide SiGe avalanche photodiodes with distributed Bragg reflectors." Photonics Research 8, no. 7 (2020): 1118-1123.
