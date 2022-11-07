@@ -2,7 +2,7 @@
 title: "64 Gb/s low-voltage waveguide SiGe avalanche photodiodes with distributed Bragg reflectors"
 collection: publications
 permalink: /publication/2020-PR8-number-10
-excerpt: 'Editors' Pick'
+excerpt: '**Editors' Pick**'
 date: 2020-06-05
 venue: 'Photonics Research'
 paperurl: 'https://opg.optica.org/prj/fulltext.cfm?uri=prj-8-7-1118&id=432418'
