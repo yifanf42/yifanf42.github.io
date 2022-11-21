@@ -2,7 +2,7 @@
 title: "Full band Monte Carlo simulation of AlInAsSb digital alloys"
 collection: publications
 permalink: /publication/2020-InfoMat-number-9
-excerpt: ''
+excerpt: 'Avalanche photodiodes fabricated from AlInAsSb grown as a digital alloy exhibit low excess noise. In this article, we investigate the band structure-related mechanisms that influence impact ionization. Band-structures calculated using an empirical tight-binding method and Monte Carlo simulations reveal that the mini-gaps in the conduction band do not inhibit electron impact ionization. Good agreement between the full band Monte Carlo simulations and measured noise characteristics is demonstrated.'
 date: 2020-03-27
 venue: 'InfoMat'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/inf2.12112'
