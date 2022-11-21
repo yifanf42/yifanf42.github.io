@@ -15,7 +15,7 @@ Education
   * [Nanjing University of Aeronautics and Astronautics](http://nuaa.edu.cn/)
 * Ph.D in Electrical Engineering (08/2016-12/2019)
   * [University of Virginia](https://www.virginia.edu/)  
-  * Supervisor: Prof. [Joe C. Campbell](https://engineering.virginia.edu/faculty/joe-charles-campbell)
+  * Supervisor: [Prof. Joe C. Campbell](https://engineering.virginia.edu/faculty/joe-charles-campbell)
 
 Work experience
 ======
