@@ -1,8 +1,8 @@
 ---
 title: "Comparison of excess noise in InAlAs and AlGaAs digital and random alloy avalanche photodiodes"
 collection: talks
-type: "Talk"
-permalink: /talks/2018-IPC
+type: "Conference Talk"
+permalink: /talks/2018-IPC-first
 venue: "IEEE Photonics Conference (IPC)"
 date: 2018-09-30
 location: "Reston, Virginia"
