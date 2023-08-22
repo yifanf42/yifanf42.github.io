@@ -11,19 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical Engineering and Automation (09/2012-06/2016)
-  * [Nanjing University of Aeronautics and Astronautics](http://nuaa.edu.cn/)
 * Ph.D. in Electrical Engineering (08/2016-12/2019)
   * [University of Virginia](https://www.virginia.edu/)  
   * Supervisor: [Prof. Joe C. Campbell](https://engineering.virginia.edu/faculty/joe-charles-campbell)
+* B.S. in Electrical Engineering and Automation (09/2012-06/2016)
+  * [Nanjing University of Aeronautics and Astronautics](http://nuaa.edu.cn/)
 
 Work experience
 ======
-* Summer Intern (05/2019-08/2019)
+* Research Scientist (02/2021-present)
   * LSIP group, [Hewlett Packard Labs](https://www.hpe.com/us/en/hewlett-packard-labs.html), [Hewlett Packard Enterprise](https://www.hpe.com/us/en/home.html)
 * Post-doctoral (02/2020-02/2021)
   * LSIP group, Hewlett Packard Labs, Hewlett Packard Enterprise
-* Research Scientist (02/2021-present)
+* Summer Intern (05/2019-08/2019)
   * LSIP group, Hewlett Packard Labs, Hewlett Packard Enterprise
 
 Research interest
