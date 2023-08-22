@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Electrical Engineering and Automation (09/2012-06/2016)
   * [Nanjing University of Aeronautics and Astronautics](http://nuaa.edu.cn/)
-* Ph.D in Electrical Engineering (08/2016-12/2019)
+* Ph.D. in Electrical Engineering (08/2016-12/2019)
   * [University of Virginia](https://www.virginia.edu/)  
   * Supervisor: [Prof. Joe C. Campbell](https://engineering.virginia.edu/faculty/joe-charles-campbell)
 
@@ -36,9 +36,38 @@ Research interest
   * Non-volatile photonics devices 
 
 * Photonics systems
-  * Silicon photonics and intergated circuits
+  * Silicon photonics and integrated circuits
   * Optical interconnects
   * Optical neural networks
+ 
+Award
+======
+* Best Paper Award in Industry Innovation, OptoElectronics and Communications Conference (OECC) 2023
+  * ["A 7-bit Precision Linearized Mach-Zehnder Interferometer for High Accuracy Optical Neural Networks"](https://ieeexplore.ieee.org/abstract/document/10209809)
+* IP Award Winner: Most Prolific Inventors of the Year (HPE) 2022                                                                   
+* Best Paper Award in Industry Innovation, [Asia Communications and Photonics Conference (ACP)](http://www.acpconf.com/ueditor/php/upload/file/20211112/1636705063382372.pdf) 2021
+  * ["A 4× 100 Gb/s DWDM optical link with all-silicon microring transmitters and receivers"](https://opg.optica.org/abstract.cfm?uri=acpc-2021-T2D.4) 
+* Chinese Award for Outstanding Self-financed Students Abroad 2019
+* Scholarship for Excellent Students of NUAA 2012-2015
+* Chinese National Scholarship 2014                                                                          
+  
+Service
+======
+* Membership: IEEE member, Optica member
+* Reviewer: Optica, ACS Photonics, Photonics Research, Optics Letters, Optics Express, IEEE Journal of Lightwave Technology, IEEE Journal of Quantum Electronics, IEEE Photonics Journal, IEEE Journal of Selected Topics in Quantum Electronics, IEEE Photonics Technology Letters, IEEE Electron Device Letters, Optics Communications, Applied Optics, PhotoniX, Photonics, Electronics, etc.
+* Editor:
+  * Research topics in [Frontiers: Heterogenous Integrated Silicon Photonics](https://www.frontiersin.org/research-topics/36586/heterogeneous-integrated-silicon-photonics), (**Now call for papers!**)
+  * Special issue in [Photonics: Advances in Avalanche Photodiodes](https://www.mdpi.com/journal/photonics/special_issues/OL2ZKD4DRR), (**Now call for papers!**)
+* Committee:
+  * Publications Council of the IEEE Photonics Society 2023
+  * Young Professionals Advisory Committee of the IEEE Photonics Society 2023-2025                         
+  * The Compound Semiconductor Week (CSW) 2023
+  * IEEE Silicon Photonics Conference (Formerly GFP Conference) 2023
+  * 7th OptoElectronics and Communications Conference / International Conference on Photonics in Switching and Computing 2022 (OECC/PSC 2022)
+* Presider:
+  * "Photodetectors and modulators", OECC 2023
+  * "Modulator" session ThD, GFP 2023
+  * "Integrated Frequency Combs" session SW4A, CLEO 2021
   
 Skills
 ======
@@ -67,27 +96,5 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-
-Award
-======
-* Best Paper Award in Industry Innovation, [Asia Communications and Photonics Conference (ACP)](http://www.acpconf.com/ueditor/php/upload/file/20211112/1636705063382372.pdf) 2021
-* Chinese Award for Outstanding Self-financed Students Abroad 2019
-* Scholarship for Excellent Students of NUAA 2012-2015
-* Chinese National Scholarship 2014                                                                          
-
-  
-Service
-======
-* Membership: IEEE member, Optica member
-* Reviewer: Optica, ACS Photonics, Photonics Research, Optics Letters, Optics Express, IEEE Journal of Lightwave Technology, IEEE Journal of Quantum Electronics, IEEE Photonics Journal, IEEE Journal of Selected Topics in Quantum Electronics, IEEE Photonics Technology Letters, IEEE Electron Device Letters, Optics Communications, Applied Optics, PhotoniX, Photonics, Electronics, etc.
-* Editor:
-  * Research topics in [Frontiers: Heterogenous Integrated Silicon Photonics](https://www.frontiersin.org/research-topics/36586/heterogeneous-integrated-silicon-photonics), (**Now call for papers!**)
-  * Special issue in [Photonics: Advances in Avalanche Photodiodes](https://www.mdpi.com/journal/photonics/special_issues/OL2ZKD4DRR), (**Now call for papers!**)
-* Committee:
-  * The Compound Semiconductor Week (CSW) 2023
-  * IEEE Silicon Photonics Conference (Formerly GFP Conference) 2023
-  * 7th OptoElectronics and Communications Conference / International Conference on Photonics in Switching and Computing 2022 (OECC/PSC 2022)
-* Presider:
-  * "Integrated Frequency Combs" session SW4A, CLEO 2021
 
 
