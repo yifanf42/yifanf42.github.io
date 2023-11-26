@@ -56,11 +56,11 @@ Award
 Service
 ======
 * Membership: IEEE member, Optica member
-* Reviewer: Optica, ACS Photonics, Photonics Research, Optics Letters, Optics Express, IEEE Journal of Lightwave Technology, IEEE Journal of Quantum Electronics, IEEE Photonics Journal, IEEE Journal of Selected Topics in Quantum Electronics, IEEE Photonics Technology Letters, IEEE Electron Device Letters, Optics Communications, Applied Optics, PhotoniX, Photonics, Electronics, etc.
+* Reviewer: Optica, ACS Photonics, Laser & Photonics Reviews, Photonics Research, Optics Letters, Optics Express, IEEE Journal of Lightwave Technology, IEEE Journal of Quantum Electronics, IEEE Photonics Journal, IEEE Journal of Selected Topics in Quantum Electronics, IEEE Photonics Technology Letters, IEEE Electron Device Letters, Optics Communications, Applied Optics, PhotoniX, Photonics, Electronics, etc.
 * Editor:
-  * Research topics in [Frontiers: Heterogenous Integrated Silicon Photonics](https://www.frontiersin.org/research-topics/36586/heterogeneous-integrated-silicon-photonics), (**Now call for papers!**)
   * Special issue in [Photonics: Advances in Avalanche Photodiodes](https://www.mdpi.com/journal/photonics/special_issues/OL2ZKD4DRR), (**Now call for papers!**)
 * Committee:
+  * IEEE International Conference on Rebooting Computing (ICRC) 2023
   * Publications Council of the IEEE Photonics Society 2023
   * Young Professionals Advisory Committee of the IEEE Photonics Society 2023-2025                         
   * The Compound Semiconductor Week (CSW) 2023
