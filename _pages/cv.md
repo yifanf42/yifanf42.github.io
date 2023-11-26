@@ -19,8 +19,10 @@ Education
 
 Work experience
 ======
-* Research Scientist (02/2021-present)
+* Senior Research Scientist (11/2023-present)
   * LSIP group, [Hewlett Packard Labs](https://www.hpe.com/us/en/hewlett-packard-labs.html), [Hewlett Packard Enterprise](https://www.hpe.com/us/en/home.html)
+* Research Scientist (02/2021-10/2023)
+  * LSIP group, Hewlett Packard Labs, Hewlett Packard Enterprise
 * Post-doctoral (02/2020-02/2021)
   * LSIP group, Hewlett Packard Labs, Hewlett Packard Enterprise
 * Summer Intern (05/2019-08/2019)
@@ -31,14 +33,14 @@ Research interest
 * Optoelectronic devices
   * Avalanche Photodiodes
   * Single photon avalanche photodiodes
-  * Microring Resonators
-  * Modulators
+  * Microring resonator modulators
   * Non-volatile photonics devices 
 
-* Photonics systems
-  * Silicon photonics and integrated circuits
+* Photonic integrated circuits
+  * Silicon photonics
   * Optical interconnects
-  * Optical neural networks
+  * Optical neuromorphic computing
+  * Photonics for AI
  
 Award
 ======
