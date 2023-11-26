@@ -19,8 +19,8 @@ Optoelectronic Devices:
   * Non-volatile photonic devices
 
 Photonic Integrated Circuits
+  * Silicon photonics
   * Optical interconnects
-  * All-Silicon links
   * Optical neuromorphic computing
   * Photonics for AI
 
