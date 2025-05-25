@@ -14,11 +14,11 @@ I am seeking Phd posistion in 2026 fall. You can also find my <a href="cv.pdf" t
 
 Education
 ======
-* M.S. in Electronic Science and Technology     Sep. 2023- Jun. 2026 (expected)
+* M.S. in Electronic Science and Technology Sep. 2023- Jun. 2026 (expected)
   * [Shanghaitech University](https://www.shanghaitech.edu.cn/eng/)
   * Supervisor: [Prof. Baile Chen](https://faculty.sist.shanghaitech.edu.cn/faculty/chenbl/#about)
 
-* B.S. in Physics                                Sep. 2019- Jun. 2023
+* B.S. in Physics Sep. 2019- Jun. 2023
 
 Research Interest
 ======
