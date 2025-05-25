@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Yifan Fan is currently a graduate student in the Electronic Science and Technology at Shanghaitech University. He is also a research assistant in Optoelectronic Device Laboratory. His main research interest includes optoelectronic device, integrated photonics and their applications in sening and computing. He will receive M.S. degree in <a href="https://faculty.sist.shanghaitech.edu.cn/faculty/chenbl/#about"> Prof. Baile Chen's group</a>. Previously, he obtained B.S in Physics 
+I am currently a graduate student in the Electronic Science and Technology  and a rsearch assistant at Shanghaitech University. My main research interest includes optoelectronic device, integrated photonics and their applications in sening and computing. I will receive M.S. degree in <a href="https://faculty.sist.shanghaitech.edu.cn/faculty/chenbl/#about"> Prof. Baile Chen's group</a>. Previously, I obtained B.S in Physics from Shanghaitech University.
+
+I am seeking Phd posistion, please find my CV hear.
 
 Research Interest
 ======
