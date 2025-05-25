@@ -46,6 +46,11 @@ Single-pixel p-graded-n junction spectrometers for Near-UV spectral range (2024)
 * Designed a newstructure to broaden the spectral coverage into the near-UV range.
 * Measured electrical and optical characteristics for spectrum construction.
 
+Publications
+======
+High-Speed InGaP/AlGaAs Avalanche Photodiodes for LED-Based Visible Light Communication
+Y. Fan et al., IEEE Transactions on Electron Devices, doi: 10.1109/TED.2025.3559492
+ 
 Skills
 ======
 Fabrication
