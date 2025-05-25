@@ -14,14 +14,13 @@ I am seeking Phd posistion in 2026 fall. You can also find my <a href="cv.pdf" t
 
 Education
 ======
-* 09/2023-Present: M.S. in Electronic Science and Technology
+* 09/2023 - Present: M.S. in Electronic Science and Technology
   * [Shanghaitech University](https://www.shanghaitech.edu.cn/eng/)
   * Supervisor: [Prof. Baile Chen](https://faculty.sist.shanghaitech.edu.cn/faculty/chenbl/#about)
 
-* 09/2019-06/2023: B.S. in Physics Sep. 2019- Jun. 2023
+* 09/2019 - 06/2023: B.S. in Physics Sep. 2019- Jun. 2023
   * [Shanghaitech University](https://www.shanghaitech.edu.cn/eng/)
  
-    
 Research Interest
 ======
 Optoelectronic Devices:
@@ -31,6 +30,11 @@ Optoelectronic Devices:
 Integrated Photonics
   * Silicon photonics
   * Photonics for AI
+
+Honors & Rewards
+======
+* SecondAcademic Scholarship, Shanghaitech University, 2025
+* SecondAcademic Scholarship, Shanghaitech University, 2024
 
 Contact
 ======
