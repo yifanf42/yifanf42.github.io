@@ -12,6 +12,14 @@ I am currently a graduate student in the Electronic Science and Technology  and 
 
 I am seeking Phd posistion in 2026 fall. You can also find my <a href="cv.pdf" target="-blank"> CV here </a>.
 
+Education
+======
+* M.S. in Electronic Science and Technology     Sep. 2023- Jun. 2026 (expected)
+  * [Shanghaitech University](https://www.shanghaitech.edu.cn/eng/)
+  * Supervisor: [Prof. Baile Chen](https://faculty.sist.shanghaitech.edu.cn/faculty/chenbl/#about)
+
+* B.S. in Physics                                Sep. 2019- Jun. 2023
+
 Research Interest
 ======
 Optoelectronic Devices:
@@ -20,7 +28,6 @@ Optoelectronic Devices:
 
 Integrated Photonics
   * Silicon photonics
-  * Optical neuromorphic computing
   * Photonics for AI
 
 Contact
