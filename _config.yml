@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuan's Homepage"
+title                    : "Yifan's Homepage"
 title_separator          : "-"
-name                     : &name "Yuan Yuan"
+name                     : &name "Yifan Fan"
 description              : &description "A Researcher at Hewlett Packard Labs"
-url                      : https://yy6mf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yifanf42.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yy6mf/yy6mf.github.io"
+repository               : "yifanf42/yifanf42.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuan Yuan (袁源)"
+  name             : "Yifan Fan (樊奕璠)"
   avatar           : "profile.png"
-  bio              : "A Photonics Researcher"
-  location         : "Milpitas, CA, USA"
+  bio              : ""
+  location         : "Shanghai, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=JaVGH-UAAAAJ&hl=en"
-  email            : "yuan.yuan@hpe.com"
+  email            : "fanyf2023@shanghaitech.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
