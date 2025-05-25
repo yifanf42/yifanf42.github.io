@@ -36,6 +36,12 @@ Honors & Rewards
 * SecondAcademic Scholarship, Shanghaitech University, 2025
 * SecondAcademic Scholarship, Shanghaitech University, 2024
 
+Rsearch Experience
+======
+High-Speed InGaP/AlGaAs Visible Avalanche Photodiodes (2024-2025)
+* Conducted the fabrication process, which includes photolithography, etching, metal deposition, annealing and passivation.
+* Test device performance, which includes dark current, multiplication gain, responsivity, quantum efficiency, bandwidth, excess noise and data rate.
+ 
 Contact
 ======
 email: fanyf2023@shanghaitech.edu.cn
