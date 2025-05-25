@@ -30,10 +30,5 @@ Photonic Integrated Circuits
 
 Contact
 ======
-email: yuan[dot]yuan[at]hpe[dot]com
-
-address: 820 N. McCarthy Blvd Suite 100, Milpitas, CA 95035 USA
-
-
-![UVa](/images/UVa_2_2.png)
+email: fanyf2023@shanghaitech.edu.cn
 
