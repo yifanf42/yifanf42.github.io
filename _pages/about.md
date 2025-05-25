@@ -24,7 +24,7 @@ Education
 Publications
 ======
 High-Speed InGaP/AlGaAs Avalanche Photodiodes for LED-Based Visible Light Communication
-<bt> Y. Fan et al., IEEE Transactions on Electron Devices, doi: [10.1109/TED.2025.3559492](https://ieeexplore.ieee.org/document/10970750)
+<br> Y. Fan et al., IEEE Transactions on Electron Devices, doi: [10.1109/TED.2025.3559492](https://ieeexplore.ieee.org/document/10970750)
  
 Research Interest
 ======
