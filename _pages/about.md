@@ -46,6 +46,12 @@ Single-pixel p-graded-n junction spectrometers for Near-UV spectral range (2024)
 * Designed a newstructure to broaden the spectral coverage into the near-UV range.
 * Measured electrical and optical characteristics for spectrum construction.
 
+Skills
+======
+Fabrication
+*  Proficient in fabrication process, which includes photolithography, E-beam metal evaporation, PECVD
+ oxide deposition, reactive ion etching (RIE), etc.
+
 Contact
 ======
 email: fanyf2023@shanghaitech.edu.cn
