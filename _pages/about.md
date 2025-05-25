@@ -82,5 +82,5 @@ Slected Courses
   
 Contact
 ======
-email: fanyf2023@shanghaitech.edu.cn
+Email: fanyf2023@shanghaitech.edu.cn
 
