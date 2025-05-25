@@ -68,7 +68,7 @@ Other Experience
     *  Entrepreneurial Management, spring 2023
     *  Fundamental Semiconductor Device Physics, fall 2023
   * Management Assistant
-    *  Institute of Mathematical Science, fall 2020 and spring 2021 
+    *  Institute of Mathematical Science, fall 2020 - spring 2021 
 * Leadership
   * Shanghaitech Physics Club & Society of Physics Students
     *  President, 2021-2023
