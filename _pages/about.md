@@ -59,7 +59,13 @@ Characterization
  * Familiar with optical and electrical instruments, which includes semiconductor analyzer, lock-in amplifier, optical spectrum analyzer (OSA), wafer prober, etc.
 Softwares
  * Silvaco TCAD, Klayout, Matlab, Python, Origin, etc
-   
+
+Other Experience
+======
+* Service
+ *  Introduction to World Civilizations, fall 2024
+   Teaching Assistant
+
 Contact
 ======
 email: fanyf2023@shanghaitech.edu.cn
