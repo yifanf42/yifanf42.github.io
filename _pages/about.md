@@ -17,12 +17,9 @@ Research Interest
 Optoelectronic Devices:
   * Avalanche photodiodes
   * Single photon avalanche diodes
-  * Microring resonator moudlators
-  * Non-volatile photonic devices
 
-Photonic Integrated Circuits
+Integrated Photonics
   * Silicon photonics
-  * Optical interconnects
   * Optical neuromorphic computing
   * Photonics for AI
 
