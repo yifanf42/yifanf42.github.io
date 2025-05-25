@@ -72,6 +72,14 @@ Other Experience
 * Leadership
   * Shanghaitech Physics Club & Society of Physics Students
     *  President, 2021-2023
+
+Slected Courses
+======
+* Graduate
+  Introduction to Quantum Computing (A), Semiconductor Device Physics (A-), Deep Learning (A-), Microwave Engineering (A-)
+* Undergraduate
+   Quantum Mechanics (A+), Advanced Thermodynamics and Statistical Physics (A), Methods of Mathematical Physics (A), Fundamental Semiconductor Device Physics (A-)
+  
 Contact
 ======
 email: fanyf2023@shanghaitech.edu.cn
