@@ -86,9 +86,9 @@ author:
   location         : "Shanghai, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=JaVGH-UAAAAJ&hl=en"
+  googlescholar    : # "https://scholar.google.com/citations?user=JaVGH-UAAAAJ&hl=en"
   email            : "fanyf2023@shanghaitech.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,10 +100,10 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/yuan-yuan-a25b94154"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-0907-9934"
+  linkedin         : # "www.linkedin.com/in/yuan-yuan-a25b94154"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0002-2414-7405"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
