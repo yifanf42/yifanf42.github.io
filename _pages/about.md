@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Yuan Yuan, a Research Scientist in the Large-Scale-Integrated-Photonics (LSIP) group within [Hewlett Packard Labs](https://www.hpe.com/us/en/hewlett-packard-labs.html). My research interests include optoelectronic devices, photonic integrated circuits, and optical computing. I received my Ph.D. in electrical engineering from the University of Virginia in [Prof. Joe Campbell's group](https://engineering.virginia.edu/photonic-devices-group). Previously, I obtained my B.S. in electrical engineering from the Nanjing University of Aeronautics and Astronautics. I have authored/ coauthored over 65 journal and conference papers, and was granted 4 US patents with another dozen pending. I am a member of IEEE and Optica.
+Yifan Fan is currently a graduate student in the Electronic Science and Technology at Shanghaitech University. He is also a research assistant in Optoelectronic Device Laboratory. His main research interest includes optoelectronic device, integrated photonics and their applications in sening and computing. He will receive M.S. degree in <a href="https://faculty.sist.shanghaitech.edu.cn/faculty/chenbl/#about"> Prof. Baile Chen's group. Previously, he obtained B.S in Physics 
 
 Research Interest
 ======
