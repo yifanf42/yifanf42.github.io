@@ -63,8 +63,10 @@ Softwares
 Other Experience
 ======
 * Service
-  * Introduction to World Civilizations, fall 2024
-    Teaching Assistant
+  * Teaching Assistant
+    *  Introduction to World Civilizations Course, fall 2024
+    *  Entrepreneurial Management Course, spring 2024
+    *   
 
 Contact
 ======
