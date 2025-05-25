@@ -49,7 +49,7 @@ Single-pixel p-graded-n junction spectrometers for Near-UV spectral range (2024)
 Publications
 ======
 High-Speed InGaP/AlGaAs Avalanche Photodiodes for LED-Based Visible Light Communication
-Y. Fan et al., IEEE Transactions on Electron Devices, doi: 10.1109/TED.2025.3559492
+<bt> Y. Fan et al., IEEE Transactions on Electron Devices, doi: [10.1109/TED.2025.3559492](https://ieeexplore.ieee.org/document/10970750)
  
 Skills
 ======
