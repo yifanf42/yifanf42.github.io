@@ -18,7 +18,7 @@ Education
   * [Shanghaitech University](https://www.shanghaitech.edu.cn/eng/)
   * Supervisor: [Prof. Baile Chen](https://faculty.sist.shanghaitech.edu.cn/faculty/chenbl/#about)
 
-* 09/2019 - 06/2023: B.S. in Physics Sep. 2019- Jun. 2023
+* 09/2019 - 06/2023: B.S. in Physics
   * [Shanghaitech University](https://www.shanghaitech.edu.cn/eng/)
  
 Research Interest
