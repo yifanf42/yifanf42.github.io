@@ -64,9 +64,9 @@ Other Experience
 ======
 * Service
   * Teaching Assistant
-    *  Introduction to World Civilizations Course, fall 2024
-    *  Entrepreneurial Management Course, spring 2024
-    *  Fundamental Semiconductor Device Physics Course, fall 2023
+    *  Introduction to World Civilizations, fall 2024
+    *  Entrepreneurial Management, spring 2024
+    *  Fundamental Semiconductor Device Physics, fall 2023
   * Management Assistant
     *  Institute of Mathematical Science, fall 2020 and spring 2021 
 * Leadership
