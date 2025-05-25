@@ -69,7 +69,9 @@ Other Experience
     *  Fundamental Semiconductor Device Physics Course, fall 2023
   * Management Assistant
     *  Institute of Mathematical Science, fall 2020 and spring 2021 
-
+* Leadership
+  * Shanghaitech Physics Club & Society of Physics Students
+    *  President, 2021-2023
 Contact
 ======
 email: fanyf2023@shanghaitech.edu.cn
