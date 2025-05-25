@@ -87,16 +87,6 @@ Skills
 * Fabrication
   * photolithographic pattern, E-beam metal evaporation, PECVD oxide deposition, profilometer, reactive ion etching (RIE), scanning electron microscope (SEM), sputter, ellipsometry, etc.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed%}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
 
 
