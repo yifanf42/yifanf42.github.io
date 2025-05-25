@@ -24,10 +24,6 @@ Photonic Integrated Circuits
   * Optical neuromorphic computing
   * Photonics for AI
 
-
-<br/><img src='/images/HPLabs.png' width="320"> 
-
-
 Contact
 ======
 email: fanyf2023@shanghaitech.edu.cn
