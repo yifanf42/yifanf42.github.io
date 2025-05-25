@@ -21,15 +21,20 @@ Education
 * 09/2019 - 06/2023: B.S. in Physics
   * [Shanghaitech University](https://www.shanghaitech.edu.cn/eng/)
  
+Publications
+======
+High-Speed InGaP/AlGaAs Avalanche Photodiodes for LED-Based Visible Light Communication
+<bt> Y. Fan et al., IEEE Transactions on Electron Devices, doi: [10.1109/TED.2025.3559492](https://ieeexplore.ieee.org/document/10970750)
+ 
 Research Interest
 ======
 Optoelectronic Devices:
-  * Avalanche photodiodes
-  * Single photon avalanche diodes
+ * Avalanche photodiodes
+ * Single photon avalanche diodes
 
 Integrated Photonics
-  * Silicon photonics
-  * Photonics for AI
+ * Silicon photonics
+ * Photonics for AI
 
 Honors & Rewards
 ======
@@ -39,29 +44,21 @@ Honors & Rewards
 Rsearch Experience
 ======
 High-Speed InGaP/AlGaAs Visible Avalanche Photodiodes (2024-2025)
-* Conducted the fabrication process, which includes photolithography, etching, metal deposition, annealing and passivation.
-* Test device performance, which includes dark current, multiplication gain, responsivity, quantum efficiency, bandwidth, excess noise and data rate.
-
+ * Conducted the fabrication process, which includes photolithography, etching, metal deposition, annealing and passivation.
+ * Test device performance, which includes dark current, multiplication gain, responsivity, quantum efficiency, bandwidth, excess noise and data rate.
 Single-pixel p-graded-n junction spectrometers for Near-UV spectral range (2024)
-* Designed a newstructure to broaden the spectral coverage into the near-UV range.
-* Measured electrical and optical characteristics for spectrum construction.
+ * Designed a newstructure to broaden the spectral coverage into the near-UV range.
+ * Measured electrical and optical characteristics for spectrum construction.
 
-Publications
-======
-High-Speed InGaP/AlGaAs Avalanche Photodiodes for LED-Based Visible Light Communication
-<bt> Y. Fan et al., IEEE Transactions on Electron Devices, doi: [10.1109/TED.2025.3559492](https://ieeexplore.ieee.org/document/10970750)
- 
 Skills
 ======
 Fabrication
  * Proficient in fabrication process, which includes photolithography, E-beam metal evaporation, PECVD oxide deposition, reactive ion etching (RIE), etc.
-
 Characterization
  *  Proficient in photodetector and avalanche photodiode characterization, which includes dark current, multiplication gain, responsivity, quantum efficiency, bandwidth, excess noise, etc.
  * Familiar with optical and electrical instruments, which includes semiconductor analyzer, lock-in amplifier, optical spectrum analyzer (OSA), wafer prober, etc.
-
 Softwares
-*  Silvaco TCAD, Klayout, Matlab, Python, Origin, etc
+ * Silvaco TCAD, Klayout, Matlab, Python, Origin, etc
    
 Contact
 ======
