@@ -76,9 +76,9 @@ Other Experience
 Slected Courses
 ======
 * Graduate
-  Introduction to Quantum Computing (A), Semiconductor Device Physics (A-), Deep Learning (A-), Microwave Engineering (A-)
+<br> Introduction to Quantum Computing (A), Semiconductor Device Physics (A-), Deep Learning (A-), Microwave Engineering (A-)
 * Undergraduate
-   Quantum Mechanics (A+), Advanced Thermodynamics and Statistical Physics (A), Methods of Mathematical Physics (A), Fundamental Semiconductor Device Physics (A-)
+<br> Quantum Mechanics (A+), Advanced Thermodynamics and Statistical Physics (A), Methods of Mathematical Physics (A), Fundamental Semiconductor Device Physics (A-)
   
 Contact
 ======
