@@ -54,6 +54,9 @@ Fabrication
 Characterization
  *  Proficient in photodetector and avalanche photodiode characterization, which includes dark current, multiplication gain, responsivity, quantum efficiency, bandwidth, excess noise, etc.
  * Familiar with optical and electrical instruments, which includes semiconductor analyzer, lock-in amplifier, optical spectrum analyzer (OSA), wafer prober, etc.
+
+Softwares
+*  Silvaco TCAD, Klayout, Matlab, Python, Origin, etc
    
 Contact
 ======
