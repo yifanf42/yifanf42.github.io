@@ -63,8 +63,8 @@ Softwares
 Other Experience
 ======
 * Service
- *  Introduction to World Civilizations, fall 2024
-   Teaching Assistant
+  * Introduction to World Civilizations, fall 2024
+    Teaching Assistant
 
 Contact
 ======
