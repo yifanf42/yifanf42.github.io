@@ -45,7 +45,7 @@ Rsearch Experience
 ======
 High-Speed InGaP/AlGaAs Visible Avalanche Photodiodes (2024-2025)
  * Conducted the fabrication process, which includes photolithography, etching, metal deposition, annealing and passivation.
- * Test device performance, which includes dark current, multiplication gain, responsivity, quantum efficiency, bandwidth, excess noise and data rate.
+ * Tested device performance, which includes dark current, multiplication gain, responsivity, quantum efficiency, bandwidth, excess noise and data rate.
 Single-pixel p-graded-n junction spectrometers for Near-UV spectral range (2024)
  * Designed a newstructure to broaden the spectral coverage into the near-UV range.
  * Measured electrical and optical characteristics for spectrum construction.
