@@ -48,9 +48,10 @@ Single-pixel p-graded-n junction spectrometers for Near-UV spectral range (2024)
 
 Skills
 ======
-* Fabrication
+Fabrication
  * Proficient in fabrication process, which includes photolithography, E-beam metal evaporation, PECVD oxide deposition, reactive ion etching (RIE), etc.
-* Test
+
+Characterization
  *  Proficient in photodetector and avalanche photodiode characterization, which includes dark current, multiplication gain, responsivity, quantum efficiency, bandwidth, excess noise, etc.
  * Familiar with optical and electrical instruments, which includes semiconductor analyzer, lock-in amplifier, optical spectrum analyzer (OSA), wafer prober, etc.
    
